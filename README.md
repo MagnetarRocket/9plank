@@ -1,6 +1,6 @@
 # Plank (9plank)
 
-Plank is a very simple editor for the plan9 family of systems, it only supports file reading, editing, saving, and nothing much else. It's interface is somewhat simular to xedit, but with three less buttons and no console log in the middle.
+Plank is a very simple editor for the plan9 family of systems, it only supports file reading, editing, saving, and nothing much else. It's interface is somewhat similar to xedit, but with three less buttons and no console log in the middle.
 
 ## Usage
 
@@ -20,7 +20,7 @@ Plank consists of two major elements in it's interface:
 #-----------------------#
 ```
 
-Unlike the standard graphical edtiors for the Plan9 family of systems, this is rather simple. Standard Plan9 shortcuts and qwarks will still apply however.
+Unlike the standard graphical editors for the Plan9 family of systems, this is rather simple. Standard Plan9 shortcuts and quarks will still apply however.
 
 Menus and options from them are also very simple, middle-clicking will bring up...
 ```
@@ -55,8 +55,8 @@ It's very simple to compile plank. All one has to do is...
 
 	- does not have undo or redo.
 
-	- does not ave a search function to mark a word or moark all given words.
+	- does not ave a search function to mark a word or mark all given words.
 
-	- have anything in the form of arguement flags, a future version might have "-r" as a flag for read-only mode.
+	- have anything in the form of argument flags, a future version might have "-r" as a flag for read-only mode.
 
 *
